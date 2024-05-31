@@ -13,17 +13,17 @@ This repository contains the source code for the official website of the Human T
 The Human Touch Foundation website is designed to provide information about the foundation's mission, vision, services, and impact. It also includes sections for a photo gallery, details about the founder, and a contact form. The website is built with a responsive design to ensure a seamless user experience across various devices.
 
 ## ✨ Features
-**Home Page**: Introduction to the foundation.
-**Gallery**: Slideshow of images showcasing the foundation's activities.
-**Our Services**: Detailed information about the services provided by the foundation.
-**About Founder**: Information about the founder, Peter Borges, along with his image.
-**Contact Us**: Contact form for visitors to reach out to the foundation.
+* **Home Page**: Introduction to the foundation.
+* **Gallery**: Slideshow of images showcasing the foundation's activities.
+* **Our Services**: Detailed information about the services provided by the foundation.
+* **About Founder**: Information about the founder, Peter Borges, along with his image.
+* **Contact Us**: Contact form for visitors to reach out to the foundation.
 
 ## 🛠️ Technologies Used
-**React**: JavaScript library for building user interfaces.
-**Tailwind CSS**: Utility-first CSS framework for styling.
-**JavaScript (ES6+)**: Core programming language.
-**HTML5 & CSS3**: Markup and styling.
+* **React**: JavaScript library for building user interfaces.
+* **Tailwind CSS**: Utility-first CSS framework for styling.
+* **JavaScript (ES6+)**: Core programming language.
+* **HTML5 & CSS3**: Markup and styling.
 
 ## 🚀 Installation
 To set up the project locally, follow these steps:
@@ -41,11 +41,11 @@ npm install
 npm start
 
 ## 📋 Usage
-**Navigation**: Use the navigation bar at the top to move between different sections of the website.
-**Gallery**: View the images showcasing the foundation's activities.
-**Our Services**: Learn about the various services provided by the foundation.
-**About Founder**: Read about the founder and his mission.
-**Contact Us**: Use the contact form to send a message to the foundation.
+* **Navigation**: Use the navigation bar at the top to move between different sections of the website.
+* **Gallery**: View the images showcasing the foundation's activities.
+* **Our Services**: Learn about the various services provided by the foundation.
+* **About Founder**: Read about the founder and his mission.
+* **Contact Us**: Use the contact form to send a message to the foundation.
 
 ## 👤 About the Author
 This project was developed by Aashman Jeremias Dcosta during an internship at the Human Touch Foundation. The internship provided a unique opportunity to contribute to a cause dedicated to empowering youth and addressing critical social issues. Working closely with the foundation, I was able to apply and expand my skills in web development, particularly in using React and Tailwind CSS. This project reflects the foundation's mission and my commitment to leveraging technology for social good.
