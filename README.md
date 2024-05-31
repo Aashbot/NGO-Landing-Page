@@ -58,6 +58,12 @@ The project involved creating a dynamic and responsive website that effectively 
 Working at the Human Touch Foundation has been a transformative experience, and I am grateful for the opportunity to contribute to their mission of creating a healthier, more inclusive society.
 
 
+![Screenshot 2024-05-31 201740](https://github.com/Aashbot/NGO-Landing-Page/assets/90471468/94fc973c-249e-4acc-a5cd-40216e15cb1e)
+![Screenshot 2024-05-31 201720](https://github.com/Aashbot/NGO-Landing-Page/assets/90471468/284ec4c6-2c50-443e-9ff5-09625d7e39c4)
+![Screenshot 2024-05-31 201655](https://github.com/Aashbot/NGO-Landing-Page/assets/90471468/37b45166-da42-4ec3-a01a-ec5fc6db9a64)
+![Screenshot 2024-05-31 201627](https://github.com/Aashbot/NGO-Landing-Page/assets/90471468/0c43ed80-2f3f-4da8-a618-83b1a809c5a1)
+![Screenshot 2024-05-31 201611](https://github.com/Aashbot/NGO-Landing-Page/assets/90471468/2664e017-9a43-49cd-9bdd-fad38a71b7ee)
+![Screenshot 2024-05-31 201552](https://github.com/Aashbot/NGO-Landing-Page/assets/90471468/3dbcefdd-1138-4e8f-be75-a8bae10e299a)
 
 
 ### React + Vite
